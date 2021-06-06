@@ -1,2 +1,4 @@
 # photoview
-The tinder like application but very simple , built using tinder-card-component
+
+<h2> <a href="https://sammed-sankonatti.github.io/photoview/"> Live link</a> </h2>
+
