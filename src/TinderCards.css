@@ -1,0 +1,40 @@
+.card{
+    position: relative;
+    background-color: #fff;
+     width: 650px;
+     max-width: 75vw;
+     height: 60vh;
+     background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0px 18px 53px 0px rgba(0, 0, 0, 0.3);
+}
+
+.tinderCards__cardContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.swipe{
+    position: absolute;
+}
+
+.card >h3{
+    position: absolute;
+    bottom: 0;
+    margin: 10px;
+    color: #fff;
+}
+
+@media screen and (max-width: 660px){
+    .card{
+        width: 550px;
+         max-width: 75vw;
+         height: 50vh;
+    }
+    .tinderCards__cardContainer{
+        margin-top: 10vh;
+    }
+}
