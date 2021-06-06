@@ -14,6 +14,10 @@ function TinderCards() {
         url: "https://media.gettyimages.com/photos/rohit-sharma-of-india-raises-his-bat-after-he-scores-100-runs-during-picture-id1160413155?s=2048x2048"
     },
     {
+      name: 'Virat-Kohli',
+        url: "https://media.gettyimages.com/photos/virat-kohli-of-india-gestures-to-australian-fans-to-be-quiet-after-picture-id507380762?s=2048x2048"
+    },
+    {
         name:"Dhoni",
         url:"https://media.gettyimages.com/photos/indias-mahendra-singh-dhoni-walks-off-for-50-during-the-2019-cricket-picture-id1154893839?s=2048x2048"
     },
@@ -21,13 +25,41 @@ function TinderCards() {
         name:"AB Devilliars ",
         url:"https://media.gettyimages.com/photos/de-villiers-of-the-tshwane-spartans-during-the-tshwane-spartans-media-picture-id1066686122?s=2048x2048 "
     },
+     {
+        name:"Avengers ",
+        url:"https://images8.alphacoders.com/100/thumb-1920-1003220.png"
+    },
     {
         name:"Captain-rogers ",
         url:"https://wallpapercave.com/wp/wp6914659.jpg"
     },
+     {
+        name:" Doctor strange",
+        url:" https://wallpapercave.com/wp/wp3837516.jpg"
+    },
     {
         name:" Howkaye",
         url:" https://wallpapercave.com/wp/wp1891373.jpg"
+    },
+     {
+        name:" Royal enfield",
+        url:" https://wallpapercave.com/wp/wp2616768.jpg"
+    },
+    {
+        name:" lionel Messi",
+        url:"https://media.gettyimages.com/photos/lionel-messi-of-argentina-celebrates-after-scoring-his-teams-first-picture-id984676900?s=2048x2048"
+    },
+     {
+        name:"cristiano Ronaldo",
+        url:" https://media.gettyimages.com/photos/juventus-portuguese-forward-cristiano-ronaldo-celebrates-his-teams-picture-id1165169235?s=2048x2048"
+    },
+     {
+        name:"Virat Kohli  ",
+        url:"https://wallpapercave.com/wp/wp9264434.jpg"
+    },
+     {
+        name:"Virat Kohli ",
+        url:" https://media.gettyimages.com/photos/virat-kohli-of-india-looks-on-during-game-three-of-the-one-day-picture-id1288966957?s=2048x2048"
     },
      {
         name:"Tony-stark ",
