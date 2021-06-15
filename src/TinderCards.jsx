@@ -160,7 +160,7 @@ function TinderCards() {
     },
     {
         name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself_2.jpg"
+        url:"https://www.linkpicture.com/q/myself_2-1.jpg"
     },
     //  {
     //     name:"Sammed AS",
@@ -172,16 +172,16 @@ function TinderCards() {
     // },
     {
         name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself-5.jpg"
+        url:"https://www.linkpicture.com/q/myself-5-1.jpg"
     },
     {
         name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself-7.jpg"
+        url:"https://www.linkpicture.com/q/myself-7-2.jpg"
     },
     
     {
         name:"Sammed AS",
-        url: "https://www.linkpicture.com/q/IMG_20210415_113840-1.jpg"
+        url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
     },
 ]);
 
