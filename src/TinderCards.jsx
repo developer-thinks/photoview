@@ -121,10 +121,10 @@ function TinderCards() {
         url:"https://www.linkpicture.com/q/myself-7-2.jpg"
     },
     
-    {
-        name:"Sammed AS",
-        url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
-    },
+    // {
+    //     name:"Sammed AS",
+    //     url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
+    // },
     //  {
     //     name:"Captain-rogers ",
     //     url:"https://wallpapercave.com/uwp/uwp942201.jpeg"
