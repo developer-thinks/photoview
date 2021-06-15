@@ -1,7 +1,7 @@
 .card{
     position: relative;
     background-color: #fff;
-     width: 400px;
+     width: 450px;
      max-width: 60vw;
      height: 60vh;
      background-size: cover;
@@ -30,11 +30,11 @@
 
 @media screen and (max-width: 660px){
     .card{
-        width: 600px;
-         max-width: 65vw;
+        width: 800px;
+         max-width: 80vw;
          height: 50vh;
     }
     .tinderCards__cardContainer{
-        margin-top: 10vh;
+        margin-top: 15vh;
     }
 }

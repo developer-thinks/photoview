@@ -108,6 +108,23 @@ function TinderCards() {
         name:"Captain-rogers ",
         url:"https://wallpapercave.com/uwp/uwp942202.jpeg"
     },
+    {
+        name:"Sammed AS",
+        url:"https://www.linkpicture.com/q/myself_2-1.jpg"
+    },
+    {
+        name:"Sammed AS",
+        url:"https://www.linkpicture.com/q/myself-5-1.jpg"
+    },
+    {
+        name:"Sammed AS",
+        url:"https://www.linkpicture.com/q/myself-7-2.jpg"
+    },
+    
+    {
+        name:"Sammed AS",
+        url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
+    },
     //  {
     //     name:"Captain-rogers ",
     //     url:"https://wallpapercave.com/uwp/uwp942201.jpeg"
@@ -157,11 +174,8 @@ function TinderCards() {
     {
         name:"Tony-stark ",
         url:"https://wallpapercave.com/wp/wp7201240.jpg"
-    },
-    {
-        name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself_2-1.jpg"
-    },
+    }
+    
     //  {
     //     name:"Sammed AS",
     //     url:"https://www.linkpicture.com/q/myself-1.jpg"
@@ -170,19 +184,7 @@ function TinderCards() {
     //     name:"Sammed AS",
     //     url:"https://www.linkpicture.com/q/myself-6-1.jpg"
     // },
-    {
-        name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself-5-1.jpg"
-    },
-    {
-        name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself-7-2.jpg"
-    },
     
-    {
-        name:"Sammed AS",
-        url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
-    },
 ]);
 
     const swiped=(direction,nameToDelete)=>{
