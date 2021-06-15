@@ -8,46 +8,27 @@ function TinderCards() {
     const [people, setPeople]= useState([
    
     {
-        name: 'Rohit-sharma',
-        url: "https://media.gettyimages.com/photos/rohit-sharma-of-india-raises-his-bat-after-he-scores-100-runs-during-picture-id1160413155?s=2048x2048"
-    },
-   
-    {
         name:"Rohit-sharma",
         url:"https://media.gettyimages.com/photos/rohit-sharma-of-india-during-the-group-stage-match-of-the-icc-cricket-picture-id1156458403?s=2048x2048"
      },
-     {
-        name:"Rohit-sharma",
-        url:"https://media.gettyimages.com/photos/indias-rohit-sharma-celebrate-reaching-his-century-during-the-2019-picture-id1148203314?s=2048x2048"
-     },
+     
      {
         name:"Rohit-sharma",
         url:"https://media.gettyimages.com/photos/rohit-sharma-of-india-in-action-batting-as-mushfiqur-rahim-of-looks-picture-id1159579854?s=2048x2048"
      },
-    {
-        name:"Dhoni",
-        url:"https://media.gettyimages.com/photos/indias-mahendra-singh-dhoni-walks-off-for-50-during-the-2019-cricket-picture-id1154893839?s=2048x2048"
-    },
-     {
-        name:"Dhoni",
-        url:"https://wallpapercave.com/wp/wp8607943.jpg"
-     },
+   
      {
         name:"Dhoni",
         url:"https://wallpapercave.com/wp/wp1859027.jpg"
      },
      {
         name:"Dhoni",
-        url:"https://wallpapercave.com/wp/wp3941114.jpg"
-     },
-     {
-        name:"Dhoni",
         url:"https://wallpapercave.com/wp/wp6390941.jpg"
      },
-    {
-        name:"AB Devilliars ",
-        url:"https://media.gettyimages.com/photos/de-villiers-of-the-tshwane-spartans-during-the-tshwane-spartans-media-picture-id1066686122?s=2048x2048 "
-    },
+    // {
+    //     name:"AB Devilliars ",
+    //     url:"https://media.gettyimages.com/photos/de-villiers-of-the-tshwane-spartans-during-the-tshwane-spartans-media-picture-id1066686122?s=2048x2048 "
+    // },
      {
         name:"AB Devilliars ",
         url:"https://wallpapercave.com/wp/wp1894307.jpg"
@@ -56,72 +37,69 @@ function TinderCards() {
         name:"AB Devilliars ",
         url:"https://wallpapercave.com/wp/wp1894297.jpg"
     },
-    {
-        name:"AB Devilliars ",
-        url:" https://wallpapercave.com/wp/wp1894278.jpg"
-    },
-    {
-        name:"AB Devilliars ",
-        url:" https://wallpapercave.com/wp/wp1894275.jpg"
-    },
+    // {
+    //     name:"AB Devilliars ",
+    //     url:" https://wallpapercave.com/wp/wp1894278.jpg"
+    // },
+    // {
+    //     name:"AB Devilliars ",
+    //     url:" https://wallpapercave.com/wp/wp1894275.jpg"
+    // },
    
-     {
-        name:"AB Devilliars ",
-        url:" https://wallpapercave.com/wp/wp1894261.jpg"
-    },
-     {
-        name:"AB Devilliars ",
-        url:"https://wallpapercave.com/wp/wp1894259.jpg "
-    },
-     {
-        name:"AB Devilliars ",
-        url:"https://wallpapercave.com/wp/wp1894254.jpg "
-    },
+    //  {
+    //     name:"AB Devilliars ",
+    //     url:" https://wallpapercave.com/wp/wp1894261.jpg"
+    // },
+    //  {
+    //     name:"AB Devilliars ",
+    //     url:"https://wallpapercave.com/wp/wp1894259.jpg "
+    // },
+    //  {
+    //     name:"AB Devilliars ",
+    //     url:"https://wallpapercave.com/wp/wp1894254.jpg "
+    // },
      {
         name:"AB Devilliars ",
         url:" https://wallpapercave.com/wp/wp1894272.jpg"
     },
     
-     {
-        name:"Kitcha sudeep ",
-        url:"https://wallpapercave.com/wp/wp4050016.jpg"
-    },
+    //  {
+    //     name:"Kitcha sudeep ",
+    //     url:"https://wallpapercave.com/wp/wp4050016.jpg"
+    // },
 
-      {
-        name:"Kitcha sudeep ",
-        url:"https://wallpapercave.com/wp/wp4050025.jpg"
-    },
+    //   {
+    //     name:"Kitcha sudeep ",
+    //     url:"https://wallpapercave.com/wp/wp4050025.jpg"
+    // },
     
     {
         name:"Professor ",
         url:"https://wallpapercave.com/wp/wp5854959.png"
     },
     
-    {
-        name:"Professor ",
-        url:"https://wallpapercave.com/wp/wp4631429.jpg "
-    },
+    // {
+    //     name:"Professor ",
+    //     url:"https://wallpapercave.com/wp/wp4631429.jpg "
+    // },
     
     {
         name:"Professor ",
         url:" https://wallpapercave.com/wp/wp4537923.jpg"
     },
-   {
-        name:"Professor",
-        url:"https://wallpapercave.com/wp/wp5854923.jpg "
-    },
+//    {
+//         name:"Professor",
+//         url:"https://wallpapercave.com/wp/wp5854923.jpg "
+//     },
      {
         name:"Avengers ",
         url:"https://images8.alphacoders.com/100/thumb-1920-1003220.png"
     },
-    {
-        name:"Captain-rogers ",
-        url:"https://wallpapercave.com/wp/wp6914659.jpg"
-    },
-     {
-        name:"Captain-rogers ",
-        url:"https://wallpapercave.com/uwp/uwp942212.jpeg"
-    },
+    // {
+    //     name:"Captain-rogers ",
+    //     url:"https://wallpapercave.com/wp/wp6914659.jpg"
+    // },
+
      {
         name:"Captain-rogers ",
         url:"https://wallpapercave.com/uwp/uwp942212.jpeg "
@@ -130,28 +108,28 @@ function TinderCards() {
         name:"Captain-rogers ",
         url:"https://wallpapercave.com/uwp/uwp942202.jpeg"
     },
-     {
-        name:"Captain-rogers ",
-        url:"https://wallpapercave.com/uwp/uwp942201.jpeg"
-    },
+    //  {
+    //     name:"Captain-rogers ",
+    //     url:"https://wallpapercave.com/uwp/uwp942201.jpeg"
+    // },
 
-    {
-        name:"Captain-rogers ",
-        url:"https://wallpapercave.com/uwp/uwp942198.jpeg"
-    },
+    // {
+    //     name:"Captain-rogers ",
+    //     url:"https://wallpapercave.com/uwp/uwp942198.jpeg"
+    // },
      
-    {
-        name:" Howkaye",
-        url:" https://wallpapercave.com/wp/wp1891373.jpg"
-    },
-    {
-        name:" lionel Messi",
-        url:"https://media.gettyimages.com/photos/lionel-messi-of-argentina-celebrates-after-scoring-his-teams-first-picture-id984676900?s=2048x2048"
-    },
-     {
-        name:"cristiano Ronaldo",
-        url:" https://media.gettyimages.com/photos/juventus-portuguese-forward-cristiano-ronaldo-celebrates-his-teams-picture-id1165169235?s=2048x2048"
-    },
+    // {
+    //     name:" Howkaye",
+    //     url:" https://wallpapercave.com/wp/wp1891373.jpg"
+    // },
+    // {
+    //     name:" lionel Messi",
+    //     url:"https://media.gettyimages.com/photos/lionel-messi-of-argentina-celebrates-after-scoring-his-teams-first-picture-id984676900?s=2048x2048"
+    // },
+    //  {
+    //     name:"cristiano Ronaldo",
+    //     url:" https://media.gettyimages.com/photos/juventus-portuguese-forward-cristiano-ronaldo-celebrates-his-teams-picture-id1165169235?s=2048x2048"
+    // },
      {
         name: 'Virat-Kohli',
         url: "https://media.gettyimages.com/photos/virat-kohli-of-india-gestures-to-australian-fans-after-india-took-the-picture-id507380948?s=2048x2048"
@@ -168,10 +146,10 @@ function TinderCards() {
         name:"Virat Kohli ",
         url:" https://media.gettyimages.com/photos/virat-kohli-of-india-looks-on-during-game-three-of-the-one-day-picture-id1288966957?s=2048x2048"
     },
-     {
-        name:"Tony-stark ",
-        url:"https://wallpapercave.com/wp/wp5138348.jpg"
-    },
+    //  {
+    //     name:"Tony-stark ",
+    //     url:"https://wallpapercave.com/wp/wp5138348.jpg"
+    // },
     {
         name:"Tony-stark ",
         url:"https://wallpapercave.com/wp/wp7201324.jpg"
@@ -184,14 +162,14 @@ function TinderCards() {
         name:"Sammed AS",
         url:"https://www.linkpicture.com/q/myself_2.jpg"
     },
-     {
-        name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself-1.jpg"
-    },
-    {
-        name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself-6-1.jpg"
-    },
+    //  {
+    //     name:"Sammed AS",
+    //     url:"https://www.linkpicture.com/q/myself-1.jpg"
+    // },
+    // {
+    //     name:"Sammed AS",
+    //     url:"https://www.linkpicture.com/q/myself-6-1.jpg"
+    // },
     {
         name:"Sammed AS",
         url:"https://www.linkpicture.com/q/myself-5.jpg"
@@ -200,14 +178,7 @@ function TinderCards() {
         name:"Sammed AS",
         url:"https://www.linkpicture.com/q/myself-7.jpg"
     },
-    //  {
-    //     name:"Sammed AS",
-    //     url: "https://www.linkpicture.com/q/myself-4.jpg"
-    // },
-    //  {
-    //     name:"Sammed AS",
-    //     url: "https://www.linkpicture.com/q/myself-4.jpg"
-    // },
+    
     {
         name:"Sammed AS",
         url: "https://www.linkpicture.com/q/IMG_20210415_113840-1.jpg"
