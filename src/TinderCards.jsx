@@ -7,10 +7,10 @@ function TinderCards() {
 
     const [people, setPeople]= useState([
    
-    {
-        name:"Rohit-sharma",
-        url:"https://media.gettyimages.com/photos/rohit-sharma-of-india-during-the-group-stage-match-of-the-icc-cricket-picture-id1156458403?s=2048x2048"
-     },
+    // {
+    //     name:"Rohit-sharma",
+    //     url:"https://media.gettyimages.com/photos/rohit-sharma-of-india-during-the-group-stage-match-of-the-icc-cricket-picture-id1156458403?s=2048x2048"
+    //  },
      
      {
         name:"Rohit-sharma",
@@ -63,13 +63,13 @@ function TinderCards() {
         url:" https://wallpapercave.com/wp/wp1894272.jpg"
     },
     
-    //  {
-    //     name:"Kitcha sudeep ",
-    //     url:"https://wallpapercave.com/wp/wp4050016.jpg"
-    // },
+     {
+        name:"Kiccha sudeep ",
+        url:"https://wallpapercave.com/wp/wp4050016.jpg"
+    },
 
     //   {
-    //     name:"Kitcha sudeep ",
+    //     name:"Kiccha sudeep ",
     //     url:"https://wallpapercave.com/wp/wp4050025.jpg"
     // },
     
@@ -83,10 +83,10 @@ function TinderCards() {
     //     url:"https://wallpapercave.com/wp/wp4631429.jpg "
     // },
     
-    {
-        name:"Professor ",
-        url:" https://wallpapercave.com/wp/wp4537923.jpg"
-    },
+    // {
+    //     name:"Professor ",
+    //     url:" https://wallpapercave.com/wp/wp4537923.jpg"
+    // },
 //    {
 //         name:"Professor",
 //         url:"https://wallpapercave.com/wp/wp5854923.jpg "
@@ -112,19 +112,19 @@ function TinderCards() {
         name:"Sammed AS",
         url:"https://www.linkpicture.com/q/myself_2-1.jpg"
     },
-    {
-        name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself-5-1.jpg"
-    },
-    {
-        name:"Sammed AS",
-        url:"https://www.linkpicture.com/q/myself-7-2.jpg"
-    },
-    
     // {
     //     name:"Sammed AS",
-    //     url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
+    //     url:"https://www.linkpicture.com/q/myself-5-1.jpg"
     // },
+    // {
+    //     name:"Sammed AS",
+    //     url:"https://www.linkpicture.com/q/myself-7-2.jpg"
+    // },
+    
+    {
+        name:"Sammed AS",
+        url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
+    },
     //  {
     //     name:"Captain-rogers ",
     //     url:"https://wallpapercave.com/uwp/uwp942201.jpeg"
@@ -147,14 +147,14 @@ function TinderCards() {
     //     name:"cristiano Ronaldo",
     //     url:" https://media.gettyimages.com/photos/juventus-portuguese-forward-cristiano-ronaldo-celebrates-his-teams-picture-id1165169235?s=2048x2048"
     // },
-     {
-        name: 'Virat-Kohli',
-        url: "https://media.gettyimages.com/photos/virat-kohli-of-india-gestures-to-australian-fans-after-india-took-the-picture-id507380948?s=2048x2048"
-    },
-      {
-      name: 'Virat-Kohli',
-        url: "https://media.gettyimages.com/photos/virat-kohli-of-india-gestures-to-australian-fans-to-be-quiet-after-picture-id507380762?s=2048x2048"
-    },
+    //  {
+    //     name: 'Virat-Kohli',
+    //     url: "https://media.gettyimages.com/photos/virat-kohli-of-india-gestures-to-australian-fans-after-india-took-the-picture-id507380948?s=2048x2048"
+    // },
+    // {
+    //   name: 'Virat-Kohli',
+    //     url: "https://media.gettyimages.com/photos/virat-kohli-of-india-gestures-to-australian-fans-to-be-quiet-after-picture-id507380762?s=2048x2048"
+    // },
      {
         name:"Virat Kohli  ",
         url:"https://wallpapercave.com/wp/wp9264434.jpg"
