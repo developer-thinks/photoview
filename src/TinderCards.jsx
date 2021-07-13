@@ -108,10 +108,16 @@ function TinderCards() {
         name:"Captain-rogers ",
         url:"https://wallpapercave.com/uwp/uwp942202.jpeg"
     },
+    
+    {
+        name:"Sammed AS",
+        url:" https://www.linkpicture.com/q/IMG_20210626_125011.jpg"
+    },
     {
         name:"Sammed AS",
         url:"https://www.linkpicture.com/q/myself_2-1.jpg"
     },
+   
     // {
     //     name:"Sammed AS",
     //     url:"https://www.linkpicture.com/q/myself-5-1.jpg"
@@ -121,10 +127,10 @@ function TinderCards() {
     //     url:"https://www.linkpicture.com/q/myself-7-2.jpg"
     // },
     
-    {
-        name:"Sammed AS",
-        url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
-    },
+    // {
+    //     name:"Sammed AS",
+    //     url: "https://www.linkpicture.com/q/IMG_20210415_113840-1-2.jpg"
+    // },
     //  {
     //     name:"Captain-rogers ",
     //     url:"https://wallpapercave.com/uwp/uwp942201.jpeg"
@@ -135,10 +141,10 @@ function TinderCards() {
     //     url:"https://wallpapercave.com/uwp/uwp942198.jpeg"
     // },
      
-    // {
-    //     name:" Howkaye",
-    //     url:" https://wallpapercave.com/wp/wp1891373.jpg"
-    // },
+    {
+        name:" Howkaye",
+        url:" https://wallpapercave.com/wp/wp1891373.jpg"
+    },
     // {
     //     name:" lionel Messi",
     //     url:"https://media.gettyimages.com/photos/lionel-messi-of-argentina-celebrates-after-scoring-his-teams-first-picture-id984676900?s=2048x2048"
